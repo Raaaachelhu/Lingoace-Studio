@@ -1,0 +1,13 @@
+{
+  "mp3": 446,
+  "pdf": 318,
+  "poster_images": 914,
+  "html_dependency_references": 287,
+  "missing_files": 0,
+  "browser_checks": [
+    "PU/RH/自研各抽样实际播放",
+    "测评计算与刷新后成绩保留",
+    "课堂文字和截图草稿刷新恢复"
+  ],
+  "online_deployment_verified": false
+}
